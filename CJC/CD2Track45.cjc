@@ -1,24 +1,24 @@
-REM DIRINDEX 1\2,1\3,1\4,1\5,1\6,1\7
-REM DIRNAME cjc002,folder01,folder02,folder03,folder04,folder05,folder06
+REM DIRINDEX 1\2\4,1\2\5,1\2\6,1\3\7,1\3\8,1\3\9
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09
 TITLE ""
 FILE "CD2Track45.mp3" MP3
   TRACK 01 AUDIO
     TITLE "0:"
     INDEX 01 00:00:00
   TRACK 02 AUDIO
-    TITLE "4:cjc002_1251"
+    TITLE "6:cjc002_1251"
     INDEX 01 00:00:07
   TRACK 03 AUDIO
     TITLE "0:"
     INDEX 01 00:01:69
   TRACK 04 AUDIO
-    TITLE "3:cjc002_1252"
+    TITLE "5:cjc002_1252"
     INDEX 01 00:02:10
   TRACK 05 AUDIO
     TITLE "0:"
     INDEX 01 00:05:32
   TRACK 06 AUDIO
-    TITLE "3:cjc002_1253"
+    TITLE "5:cjc002_1253"
     INDEX 01 00:07:05
   TRACK 07 AUDIO
     TITLE "0:"
